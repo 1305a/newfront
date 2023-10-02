@@ -1,1 +1,0 @@
-import{o as n,c as o}from"./index-03ef25bb.js";const c=["innerHTML"],p={__name:"ContentSubtitle",props:["componentData"],setup(t){const e=t;return(a,r)=>(n(),o("div",{innerHTML:e.componentData.subtitle},null,8,c))}};export{p as default};
