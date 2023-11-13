@@ -1,0 +1,1 @@
+import{o as n,c as o}from"./index-8ffc72df.js";const c=["innerHTML"],r={__name:"ContentText",props:["componentData"],setup(t){const e=t;return(s,_)=>(n(),o("div",{innerHTML:e.componentData.text,class:"content-text"},null,8,c))}};export{r as default};
